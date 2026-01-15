@@ -2,7 +2,8 @@
  * ============================================
  *    HỆ THỐNG ĐO SỨC KHỎE IoT - NHÓM 5
  *    CÁC THÀNH VIÊN:  ĐỖ HOÀN THÀNH
- *                    NGUYỄN ĐỖ ĐÌNH ANH
+ *                     NGUYỄN ĐỖ ĐÌNH ANH
+                       NGUYỄN HOÀI NAM
  * ============================================
  * 
  * CHỨC NĂNG: 
